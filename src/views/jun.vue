@@ -1,5 +1,7 @@
 <template>
-  <div>2</div>
+  <div>
+    <img src="../../public/切图/junjun.png" width="100%">
+  </div>
 </template>
 
 <script>
