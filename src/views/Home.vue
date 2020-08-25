@@ -1,5 +1,9 @@
 <template>
-  <div>1</div>
+ <div>
+
+<view-link></view-link>
+ 
+  </div>
 </template>
 
 <script>
